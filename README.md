@@ -1,0 +1,1 @@
+# coc-projects-aggregator
