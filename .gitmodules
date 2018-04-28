@@ -1,0 +1,24 @@
+[submodule "cloudware-starter"]
+	path = cloudware-starter
+	url = ../cloudware-starter.git
+[submodule "system"]
+	path = system
+	url = ../system.git
+[submodule "common"]
+	path = common
+	url = ../common.git
+[submodule "doc"]
+	path = doc
+	url = ../doc.git
+[submodule "it-ops"]
+	path = it-ops
+	url = ../it-ops.git
+[submodule "msg-monitor"]
+	path = msg-monitor
+	url = ../msg-monitor.git
+[submodule "notification"]
+	path = notification
+	url = ../notification.git
+[submodule "sc-coc"]
+	path = sc-coc
+	url = ../sc-coc.git
