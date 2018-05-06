@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 echo "build docker images ..."
 ./mvnw clean install -DskipTests -U -f ./cloudware-starter/pom.xml
 ./mvnw clean install -U -f ./common/pom.xml
